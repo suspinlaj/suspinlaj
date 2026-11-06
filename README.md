@@ -3,7 +3,7 @@
   <br>
 
   <!-- El GIF animado como protagonista absoluto -->
-  <img src="https://raw.githubusercontent.com/suspinlaj/suspinlaj.github.io/main/assets/images/dib_modo_claro.gif" width="220" alt="Susana Animación">
+  <img src="https://raw.githubusercontent.com/suspinlaj/suspinlaj.github.io/main/assets/images/dib_modo_claro.gif" width="420" alt="Susana Animación">
 
   <br><br>
 
