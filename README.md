@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/Spring_Boot-000000?style=flat-square&logo=springboot&logoColor=white" alt="Spring Boot"> 
   <img src="https://img.shields.io/badge/PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white" alt="HTML"> <br>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=w3c&logoColor=white" alt="CSS">
+  <img src="https://img.shields.io/badge/CSS-000000?style=flat-square&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white" alt="JS">
   <img src="https://img.shields.io/badge/Selenium-000000?style=flat-square&logo=selenium&logoColor=white" alt="Selenium">
   <img src="https://img.shields.io/badge/Cucumber-000000?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber">
