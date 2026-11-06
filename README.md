@@ -17,7 +17,7 @@
 
   <!-- Botón gigante estilo cómic/brutalista (Fondo negro, acento naranja/pastel) -->
   <a href="https://suspinlaj.github.io/">
-    <img src="https://img.shields.io/badge/-🚀_VISITAR_PORTFOLIO_INTERACTIVO-FF9900?style=for-the-badge&labelColor=000000&color=FF9900" alt="Botón Portfolio Web">
+    <kbd>✦ VISITAR MI PORTFOLIO WEB INTERACTIVO ✦</kbd>
   </a>
   
   <br><br><br>
