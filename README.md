@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/suspinlaj/suspinlaj.github.io/main/assets/images/dib_modo_claro.gif" width="620" alt="Susana Animación">
+<img src="https://raw.githubusercontent.com/suspinlaj/suspinlaj.github.io/main/assets/images/dib_modo_claro.gif" width="420" alt="Susana Animación">
 
 <br>
 
@@ -22,9 +22,9 @@
   <img src="https://img.shields.io/badge/Cucumber-000000?style=flat-square&logo=cucumber&logoColor=white" alt="Cucumber">
   <img src="https://img.shields.io/badge/Robot_Framework-000000?style=flat-square&logo=robotframework&logoColor=white" alt="Robot Framework">
   <img src="https://img.shields.io/badge/UI_UX_Design-000000?style=flat-square&logo=figma&logoColor=white" alt="UI/UX">
-  <img src="https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobeillustrator&logoColor=white" alt="Illustrator">
-  <img src="https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop">
-  <img src="https://img.shields.io/badge/InDesign-000000?style=flat-square&logo=adobeindesign&logoColor=white" alt="InDesign">
+  <img src="https://img.shields.io/badge/Illustrator-000000?style=flat-square&logo=adobe&logoColor=white" alt="Illustrator">
+  <img src="https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=adobe&logoColor=white" alt="Photoshop">
+  <img src="https://img.shields.io/badge/InDesign-000000?style=flat-square&logo=adobe&logoColor=white" alt="InDesign">
 </p>
 
 </div>
