@@ -5,11 +5,14 @@
   <!-- El GIF animado como protagonista absoluto -->
   <img src="https://raw.githubusercontent.com/suspinlaj/suspinlaj.github.io/main/assets/images/dib_modo_claro.gif" width="220" alt="Susana Animación">
 
+  <br>
 
   <!-- Botón gigante estilo cómic/brutalista (Fondo negro, acento naranja/pastel) -->
   <a href="https://suspinlaj.github.io/">
     <kbd>✦ VISITAR MI PORTFOLIO WEB INTERACTIVO ✦</kbd>
   </a>
+
+  <br>
   
   <!-- Píldoras de tecnología elegantes en negro -->
   <p>
