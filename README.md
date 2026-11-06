@@ -1,28 +1,23 @@
 <div align="center">
 
-  <br>
-
-  <!-- El GIF animado como protagonista absoluto -->
-  <img src="https://raw.githubusercontent.com/suspinlaj/suspinlaj.github.io/main/assets/images/dib_modo_claro.gif" width="220" alt="Susana Animación">
-  
   <br><br>
 
-  <!-- Presentación limpia -->
-  <h1>¡Hola! Soy Susana Pineros Lajara 👩‍💻✨</h1>
+  <!-- El gran botón visual que une tu GIF/Ilustración y el botón estilo cómic -->
+  <a href="https://suspinlaj.github.io/">
+    <img src="https://raw.githubusercontent.com/suspinlaj/suspinlaj/main/boton_especial.png" width="620" alt="¡Visitar mi Portfolio Web Interactivo! Susana Pineros Lajara">
+  </a>
+
+  <br><br>
+
+  <!-- Presentación limpia, en grande y elegante -->
+  <h2>¡Hola! Soy Susana Pineros Lajara 👩‍💻✨</h2>
   
-  <p><b>Desarrolladora Multiplataforma & UI/UX Designer</b></p>
+  <p><b>Desarrolladora Multiplataforma (DAM) & UI/UX Designer</b></p>
   <p>Combino la lógica de la programación con la creatividad del diseño y la ilustración<br>para construir experiencias digitales únicas y funcionales.</p>
   
-  <br><br>
+  <br>
 
-  <!-- Botón gigante estilo cómic/brutalista (Fondo negro, acento naranja/pastel) -->
-  <a href="https://suspinlaj.github.io/">
-    <kbd>✦ VISITAR MI PORTFOLIO WEB INTERACTIVO ✦</kbd>
-  </a>
-  
-  <br><br><br>
-
-  <!-- Píldoras de tecnología elegantes en negro -->
+  <!-- Píldoras de tecnología minimalistas en negro y estilizadas -->
   <p>
     <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
