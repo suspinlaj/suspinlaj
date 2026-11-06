@@ -7,10 +7,9 @@
 
   <br><br>
 
-  <!-- Botón gigante estilo cómic/brutalista (Fondo negro, acento naranja/pastel) -->
-  <!-- Botón gigante usando h2 -->
+  <!-- Botón escalado al máximo permitido por GitHub (h1) -->
   <a href="https://suspinlaj.github.io/">
-    <h2><kbd>&nbsp;✦ VISITAR MI PORTFOLIO WEB INTERACTIVO ✦&nbsp;</kbd></h2>
+    <h1><kbd>&nbsp;&nbsp;&nbsp;✦ VISITAR MI PORTFOLIO WEB INTERACTIVO ✦&nbsp;&nbsp;&nbsp;</kbd></h1>
   </a>
   
   <br>
@@ -45,3 +44,4 @@
     <img src="https://img.shields.io/badge/Photoshop-000000?style=flat-square&logo=adobephotoshop&logoColor=white" alt="Photoshop">
     <img src="https://img.shields.io/badge/InDesign-000000?style=flat-square&logo=adobeindesign&logoColor=white" alt="InDesign">
   </p>
+</div>
