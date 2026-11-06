@@ -4,8 +4,7 @@
 
 <br><br>
 
-<h2><a href="https://suspinlaj.github.io/"><kbd>&emsp;✦ VISITAR MI PORTFOLIO WEB INTERACTIVO ✦&emsp;</kbd></a></h2>
-
+<h1><a href="https://suspinlaj.github.io/">✦ VISITAR MI PORTFOLIO WEB INTERACTIVO ✦</a></h1>
 <br>
 
 <p>
