@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/suspinlaj/suspinlaj.github.io/main/assets/images/dib_modo_claro.gif" width="520" alt="Susana Animación">
+<img src="https://raw.githubusercontent.com/suspinlaj/suspinlaj.github.io/main/assets/images/dib_modo_oscuro.gif" width="520" alt="Susana Animación">
 
 <h2><a href="https://suspinlaj.github.io/"><kbd>&emsp;✦ VISITAR MI PORTFOLIO WEB INTERACTIVO ✦&emsp;</kbd></a></h2>
 <p>
