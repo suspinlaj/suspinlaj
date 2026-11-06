@@ -2,10 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/suspinlaj/suspinlaj.github.io/main/assets/images/dib_modo_claro.gif" width="520" alt="Susana Animación">
 
-<br>
-
 <h2><a href="https://suspinlaj.github.io/"><kbd>&emsp;✦ VISITAR MI PORTFOLIO WEB INTERACTIVO ✦&emsp;</kbd></a></h2><br>
-<br>
 <p>
   <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Kotlin-000000?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin">
