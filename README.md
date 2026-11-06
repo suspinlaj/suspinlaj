@@ -1,16 +1,13 @@
-## Hi there 👋
+# ¡Hola! Soy Susana 👋
+**Desarrolladora multiplataforma con formación en diseño digital.**
 
-<!--
-**suspinlaj/suspinlaj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me gusta combinar diseño e ilustración con programación para crear proyectos creativos y funcionales.
 
-Here are some ideas to get you started:
+## 🚀 Descubre mi trabajo
+Te invito a visitar mi portfolio web interactivo donde explico mis proyectos en detalle:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Ver Portfolio](https://img.shields.io/badge/Ver_Mi_Portfolio-FF6B6B?style=for-the-badge)](https://suspinlaj.github.io/)
+
+---
+*Mis tecnologías principales:*
+`Java` `Kotlin` `C#` `Flutter` `HTML/CSS/JS`
